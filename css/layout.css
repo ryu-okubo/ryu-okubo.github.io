@@ -674,6 +674,11 @@ footer .copy {
 	height: auto;
 }
 
+.popup-box .image video {
+	width: 100%;
+	height: auto;
+}
+
 .popup-box .desc {
 	padding: 30px 20px;
 }
